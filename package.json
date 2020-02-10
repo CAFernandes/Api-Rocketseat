@@ -17,7 +17,8 @@
   "keywords": [
     "api",
     "rest",
-    "api-rest"
+    "api-rest",
+    "mongoose"
   ],
   "author": "Caio Alberto Fernandes",
   "license": "ISC"

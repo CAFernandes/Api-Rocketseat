@@ -1,0 +1,22 @@
+{
+  "name": "api-rocketseat",
+  "version": "1.0.0",
+  "description": "Estudos de API",
+  "main": "app.js",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "api-rest"
+  ],
+  "author": "Caio Alberto Fernandes",
+  "license": "ISC"
+}

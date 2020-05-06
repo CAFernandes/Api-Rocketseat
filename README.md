@@ -1,6 +1,6 @@
 # API Node JS com Mongoose
 
-Olá esse foi desenvolvido junto com as aulas do Rocketseat sobre  **Node JS** e usando o banco de dados **Mongoose**.
+Desenvolvido junto as aulas da Rocketseat sobre  **Node JS** e usando o banco de dados **Mongoose**.
 O objetivo dele é gerenciar uma API de Produtos. 
 
 ## Dependências 
